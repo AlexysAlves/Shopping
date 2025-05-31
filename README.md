@@ -2,7 +2,7 @@
 
 ### Project Aims:
 
-The aim of this project is to 2rite an AI to predict whether online shopping customers will complete a purchase.
+The aim of this project is to write an AI to predict whether online shopping customers will complete a purchase.
 
 
 ### Project Requirements:
